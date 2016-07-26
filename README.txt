@@ -1,4 +1,4 @@
-README, but you don't have to /read me/, you know?
+README, but you don't have to /read me/, ya feel?
 
 Compiled with GBDK
 
